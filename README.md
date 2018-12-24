@@ -1,2 +1,2 @@
-# sorting
-Covers different sorting algorithms
+# sorting and searching
+Covers different sorting and searching algorithms
